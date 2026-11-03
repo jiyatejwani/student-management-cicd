@@ -94,14 +94,4 @@ docker run -p 5000:5000 student-management
 
 ## Live Deployment
 
-Deployed at: <ADD YOUR LIVE URL HERE AFTER DEPLOYING>
-
-## What I Learned
-
-<Write 3-4 sentences in your own words: what CI/CD means, why automating tests
-and builds matters, and one thing that surprised you while building this.>
-
-## Author
-
-**<Your Name>** — <Registration Number>
-B.Tech CSE (AI & ML), Manipal University Jaipur
+Deployed at:
